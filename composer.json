@@ -4,6 +4,7 @@
     "keywords": ["jasper", "reports"],
     "license": "Apache-2.0",
     "homepage": "http://jasperstarter.cenote.de/",
+    "type": "library",
     "authors": [
         {
             "name": "Yuri R Nascimento",
