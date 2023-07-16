@@ -13,8 +13,8 @@
         }
     ],
     "bin": [
-        "jasperstarter",
-        "drip"
+        "bin/jasperstarter",
+        "bin/drip"
     ],
     "require": {}
 }
